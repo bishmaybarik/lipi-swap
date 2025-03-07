@@ -33,4 +33,4 @@ In the above python script, this has been embedded into a scraping code.
 Fun stuff: The word `lipi (लिपि)` refers to `script`; and `swap` refers to translation. Hence, the repo name!
 
 ### Other references
-[Unicode by yakluvyer](https://github.com/takluyver/Unidecode) - Check this out in case you want to know more about the usage of `unicode`. 
+[Unicode by takluvyer](https://github.com/takluyver/Unidecode) - Check this out in case you want to know more about the usage of `unicode`. 
